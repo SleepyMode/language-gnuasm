@@ -1,10 +1,10 @@
-'scopeName': 'source.asm.x86'
+'scopeName': 'source.asm.gnu'
 'fileTypes': [
   'asm'
   'inc'
   's'
 ]
-'name': 'x86 Assembly'
+'name': 'GNU Assembly'
 'patterns': [
   {
     'match': '[;#].*$'
