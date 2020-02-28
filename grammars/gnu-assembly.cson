@@ -7,7 +7,7 @@
 'name': 'GNU Assembly'
 'patterns': [
   {
-    'match': '[;#].*$'
+    'match': '[;#@/].*$'
     'name': 'comment.line'
   }
   {
