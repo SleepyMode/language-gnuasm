@@ -1,11 +1,12 @@
-# x86 Assembly Language Support in Atom
+# GNU Assembly Language Support in Atom
 
-Adds syntax highlighting to x86 asssembly files in Atom.
+Adds syntax highlighting to GNU asssembly files in Atom.
 
-Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
+# Acknowledgement
+This repository is a fork of the x86 Assembly project by [SWW13](https://github.com/SWW13).
+The aforementioned repository is currently hosted on GitHub and may be found [here](https://github.com/SWW13/language-x86asm).
+
+The original repository itself was [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
 from the TextMate bundle:
 
  - [x86-assembly-textmate-bundle](https://github.com/lunixbochs/x86-assembly-textmate-bundle)
-
-Contributions are greatly appreciated! Please fork this repository and open a
-pull request to add snippets, make grammar tweaks, etc.
