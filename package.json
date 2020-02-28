@@ -1,15 +1,15 @@
 {
-  "name": "language-x86asm",
+  "name": "language-gnuasm",
   "version": "0.9.0",
-  "description": "Adds syntax highlighting to x86 asm files in Atom.",
+  "description": "Adds syntax highlighting to GNU Assembler files in Atom.",
   "keywords": [
     "asm",
     "assembler",
-    "x86",
+    "gnu",
     "language",
     "grammar"
   ],
-  "repository": "https://github.com/SWW13/language-x86asm",
+  "repository": "https://github.com/SleepyMode/language-gnuasm",
   "license": "GPLv3",
   "engines": {
     "atom": ">0.50.0"
