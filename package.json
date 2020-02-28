@@ -1,6 +1,6 @@
 {
   "name": "language-gnuasm",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Adds syntax highlighting to GNU Assembler files in Atom.",
   "keywords": [
     "asm",
